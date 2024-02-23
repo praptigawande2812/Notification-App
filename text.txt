@@ -4,7 +4,7 @@ yCollege Notification app
 Testing
 
 
-xyz 123rgtrg
+xyz 
 
 
 College Notification app
